@@ -7,3 +7,5 @@ Las escalas de fabricacion van desde pocas unidades a millones.
 Agregamos cambios para la tercera version
 
 Agregamos cambios para la cuarta version del TP1.
+
+Sexta version que toma como punto de partida la cuarta.
