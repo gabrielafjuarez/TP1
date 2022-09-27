@@ -6,4 +6,8 @@ Las escalas de fabricacion van desde pocas unidades a millones.
 
 Agregamos cambios para la tercera version
 
+<<<<<<< HEAD
 Quinta version del archivo.
+=======
+Agregamos cambios para la cuarta version del TP1.
+>>>>>>> develop
